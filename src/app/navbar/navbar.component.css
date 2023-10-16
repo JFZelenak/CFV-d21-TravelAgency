@@ -1,0 +1,6 @@
+.myNavbarBtn {
+    background-color: white;
+}
+.myNavbarBtn:hover {
+    background-color: black;
+}
