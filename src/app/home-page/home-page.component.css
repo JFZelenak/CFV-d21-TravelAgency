@@ -1,3 +1,11 @@
-h3, small {
+h3, span {
     text-shadow: 0px 0px 7px black;
+}
+
+span {
+    font-size: 18px;
+}
+
+ul {
+    background-color: rgba(0,0,0,0.4);
 }
