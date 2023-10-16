@@ -16,3 +16,7 @@ h3, .myIcon {
     color: white;
     text-shadow: 0px 0px 7px black;
 }
+
+.nav-link {
+    padding: 10px;
+}

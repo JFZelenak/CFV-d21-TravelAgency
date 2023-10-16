@@ -3,9 +3,12 @@ import { RouterModule, Routes } from '@angular/router';
 import { HomePageComponent } from './home-page/home-page.component';
 import { AboutPageComponent } from './about-page/about-page.component';
 import { FaqsPageComponent } from './faqs-page/faqs-page.component';
+import { FeaturedPageComponent } from './featured-page/featured-page.component';
 
 const routes: Routes = [{
   path: "", component: HomePageComponent
+},{
+  path: "featured", component: FeaturedPageComponent
 },{
   path: "faqs", component: FaqsPageComponent
 },{
